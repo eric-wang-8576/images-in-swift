@@ -11,6 +11,7 @@
 		15A0BFDC26749E9B00BF0F41 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A0BFDB26749E9B00BF0F41 /* ContentView.swift */; };
 		15A0BFDE26749E9D00BF0F41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15A0BFDD26749E9D00BF0F41 /* Assets.xcassets */; };
 		15A0BFE126749E9D00BF0F41 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15A0BFE026749E9D00BF0F41 /* Preview Assets.xcassets */; };
+		15A0C0182675B99100BF0F41 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A0C0172675B99100BF0F41 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		15A0BFDD26749E9D00BF0F41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		15A0BFE026749E9D00BF0F41 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		15A0BFE226749E9D00BF0F41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		15A0C0172675B99100BF0F41 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				15A0BFD926749E9B00BF0F41 /* SwiftUIImagePickerApp.swift */,
 				15A0BFDB26749E9B00BF0F41 /* ContentView.swift */,
+				15A0C0172675B99100BF0F41 /* ImagePicker.swift */,
 				15A0BFDD26749E9D00BF0F41 /* Assets.xcassets */,
 				15A0BFE226749E9D00BF0F41 /* Info.plist */,
 				15A0BFDF26749E9D00BF0F41 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				15A0C0182675B99100BF0F41 /* ImagePicker.swift in Sources */,
 				15A0BFDC26749E9B00BF0F41 /* ContentView.swift in Sources */,
 				15A0BFDA26749E9B00BF0F41 /* SwiftUIImagePickerApp.swift in Sources */,
 			);
